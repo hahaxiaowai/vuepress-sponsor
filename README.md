@@ -1,4 +1,4 @@
-# vuepress-plugin-sponsor
+# vuepress-sponsor
 [原仓库地址](https://github.com/yokefellow/vuepress-plugin-sponsor)
 ## 简介
 如果你是第一次了解这个打赏插件，请查看原仓库，并按照原仓库使用安装。
