@@ -57,9 +57,9 @@ export default {
         return {
           theme: "simple",
           alipay:
-            "https://hhxy-blog.oss-cn-zhangjiakou.aliyuncs.com/other/alipay.jpg",
+            "支付宝二维码地址",
           wechat:
-            "https://hhxy-blog.oss-cn-zhangjiakou.aliyuncs.com/other/wechat.png",
+            "微信二维码地址",
           duration: 2000,
         };
       },
