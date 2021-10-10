@@ -10,7 +10,8 @@
 ## 使用
 1. 将 sponsor.vue放置在components下
 2. 将 sponsor-logo放置在 public下
-3. 在需要打赏插件的位置上用标签引用即可
+3. 在sponsor.vue中写入自己的二维码图片地址，在六十行和六十二行
+4. 在需要打赏插件的位置上用标签引用即可
 
 ``` js
 <Sponsor/>
